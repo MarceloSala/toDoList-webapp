@@ -1,6 +1,6 @@
 # Run Apps
 
-- Each command on a different termina
+- Each command on a different terminal
 
 ## Run Backend
 
